@@ -1,0 +1,29 @@
+button {
+  background: #4f8bc5;
+  border-radius: 5px;
+  padding: 8px;
+  margin: 10px 0;
+  border: 0;
+  color: #fff;
+  font-size: 17px;
+  cursor: pointer;
+  transition: all 0.3s;
+  margin-right: 10px;
+}
+button:hover {
+  transform: scale(1.05);
+}
+.btn-all {
+  background: #72b663;
+}
+.no-border {
+  background: transparent;
+  border: 1px solid;
+  color: rgb(112, 112, 112);
+}
+.search-todo input {
+  padding: 10px;
+  margin-right: 8px;
+  border-radius: 8px;
+  font-size: 17px;
+}
